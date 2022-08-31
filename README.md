@@ -8,6 +8,6 @@ The first phase of this project uses pandas to import/clean data and make some i
 
 The second phase uses VADER (Valence Aware Dictionary and Sentiment Reasoner). VADER lexicon is used to analyze the sentiment of the tweets. It is a rule-based sentiment analysis tool specifically for common social media language. This allows assignment of a numerical polarity value to individual words and emoji (see VADER section of notebook). In other words, this allows the project to measure the polarization of Trump's tweets.
 
-The analysis of this project can be used for any type of text sentiment analysis. Possible applications may be for measuring a youtube channel's comment polarization or for a product review sentiment analysis.
+The analysis of this project can be used for any type of text sentiment analysis. Possible applications may be for measuring a youtube channel's comment polarization or for a product review sentiment analysis. Project was also used to monitor social media sentiment on Reddit for one of my previous companies. 
 
 NOTE: This is meant to be a fun project, meant to showcase data and not make a political statement.
