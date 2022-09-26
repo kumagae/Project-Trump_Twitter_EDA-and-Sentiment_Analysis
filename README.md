@@ -1,4 +1,4 @@
-# Trump-Twitter-EDA-and-Sentiment-Analysis
+# Project-Trump_Twitter_EDA-and-Sentiment_Analysis
 Trump's Twitter EDA and Sentiment Analysis using the Twitter API, Pandas, Matplotlib, VADER, etc. 
 
 
