@@ -10,4 +10,4 @@ The second phase uses VADER (Valence Aware Dictionary and Sentiment Reasoner). V
 
 The analysis of this project can be used for any type of text sentiment analysis. Possible applications may be for measuring a youtube channel's comment polarization or for a product review sentiment analysis. Project was also used to monitor social media sentiment on Reddit for one of my previous companies. 
 
-NOTE: This is meant to be a fun project, meant to showcase data and not make a political statement.
+NOTE: This is meant to be a fun project, meant to showcase data and not make a political statement. 
